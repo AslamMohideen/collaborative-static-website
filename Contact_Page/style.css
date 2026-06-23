@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(3, 3, 56);
+    color: white;
+    padding: 20px;
+    li,ul,h1{
+    display:inline;
+    }
+    ul{
+    margin-left: 80%;
+    }
+    li{
+    color:white;
+    cursor:pointer;
+    }
+    li:hover {
+    color:aqua;
+    
+    }
+}
+.info{
+    background-color:  #064194;
+    color: white;
+    padding: 20px;
+    img{
+        width:200px;
+        height: 200px;
+        margin-left: 80%;
+        margin-top: -5%;
+    }
+
+}
+.suggestion{
+    padding: 20px;
+    
+}
+.cinfo{
+    margin-left: 60%;
+    margin-top: -12%;
+}
+.link{
+    margin-left: 60%;
+}
+.bottom{
+    background-color: #01122b;
+    display: block;
+    color: white;
+    margin-top: 10%;
+}
+
